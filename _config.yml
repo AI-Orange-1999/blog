@@ -1,0 +1,10 @@
+title: Blog
+description: Fachliche und wissenschaftlich eingeordnete Analysen zur Politik in Deutschland
+lang: de
+timezone: Europe/Berlin
+markdown: kramdown
+permalink: /:year/:month/:title/
+exclude:
+  - AGENTS.md
+  - README.md
+  - .github
