@@ -1,6 +1,7 @@
 title: Blog
 description: Fachliche und wissenschaftlich eingeordnete Analysen zur Politik in Deutschland
 lang: de
+baseurl: "/blog"
 timezone: Europe/Berlin
 markdown: kramdown
 permalink: /:year/:month/:title/
